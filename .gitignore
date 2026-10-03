@@ -1,0 +1,62 @@
+# Unity-generated files and caches
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+sysinfo.txt
+crashlytics-build.properties
+
+# Unity/IDE-generated project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Local IDE settings
+.vs/
+.vscode/
+.idea/
+.gradle/
+.consulo/
+
+# Plastic SCM local metadata
+.plastic/
+
+# OS files
+.DS_Store*
+Thumbs.db
+Desktop.ini
+
+# Private/local files
+*.private
+*.private.meta
+*.private.[0-9]*
+*.private.[0-9]*.meta
+
+# Asset Store helper files and generated Addressables data
+Assets/AssetStoreTools/
+Assets/AddressableAssetsData/*/*.bin*
+Assets/StreamingAssets/aa.meta
+
+# Built packages
+*.apk
+*.aab
+*.app
+*.unitypackage
